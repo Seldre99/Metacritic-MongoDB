@@ -1,6 +1,6 @@
 # Metacritic-MongoDB
 Metacritic-MongoDB è un progetto effettuato per l'esame di Basi Di Dati II in cui è stata effettuata un'analisi relativa a dati raccolti da Metacritic sui videogiochi.
-Il dataset utilizzato, reperibile al seguente link [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data], era composto da 17944 tuple con 10 campi.
+Il dataset utilizzato, reperibile al seguente link [https://www.kaggle.com/datasets/brunovr/metacritic-videogames-data], è composto da 17944 tuple con 10 campi.
  Le tecnologie utilizzate per lo svolgimento del progetto sono state:
 - Database NoSQL MongoDB, 
 - Python per le operazioni di Data Cleaning e la creazione delle query, 
