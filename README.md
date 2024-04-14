@@ -5,12 +5,14 @@ Il dataset utilizzato, reperibile al seguente link [https://www.kaggle.com/datas
 - Database NoSQL MongoDB, 
 - Python per le operazioni di Data Cleaning e la creazione delle query, 
 - Tkinter, libreria di Python, per lo sviluppo dell'interfaccia grafica.
+
 Le operazioni di Data Cleaning effettuate sono state:
 - Rimozione del campo "players",
 - Rimozioni delle tuple che non presentavano alcun score,
 - Lower-case delle stringhe relative ai campi "nome", "piattaforma", "genere", "developer",
 - Trasformare il campo "user score" in un valore intero, più consono per le analisi effettuate,
 - Rimozione dei valori duplicati nel campo "genere".
+
 Sono state create un totale di 14 query:
 - Inserimento di un videogioco,
 - Cancellazione tramite "nome" e "piattaforma",
